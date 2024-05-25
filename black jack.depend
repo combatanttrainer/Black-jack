@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1716639015 source:e:\programming\black jack\random.cpp
+	<chrono>
+	<random>
+
+1716639061 source:e:\programming\black jack\main.cpp
+	<algorithm>
+	<array>
+	<cassert>
+	<iostream>
+	<conio.h>
+	"Random.h"
+
+1716639061 e:\programming\black jack\random.h
+	<chrono>
+	<random>
+
